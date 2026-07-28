@@ -42,17 +42,6 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/syedaqeebhaider/syedaqeebhaider/stats-output/stats.svg?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/syedaqeebhaider/syedaqeebhaider/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/syedaqeebhaider/syedaqeebhaider/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 data-importer="text" align="left">Socials:</h2>
 
 ###
@@ -65,5 +54,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
-
-###
