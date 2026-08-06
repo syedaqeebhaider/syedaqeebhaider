@@ -40,10 +40,17 @@
 
 ###
 
-<h2 data-importer="text" align="left">Socials:</h2>
 
 ###
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=syedaqeebhaider&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=syedaqeebhaider&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=syedaqeebhaider&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+<h2 data-importer="text" align="left">Socials:</h2>
 <div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/syedaqeebhaidernaqvi/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
